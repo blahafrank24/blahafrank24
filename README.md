@@ -21,7 +21,7 @@ I care more about the problem than the framework. I pick the stack that fits, an
 
 ### Stack
 
-PHP · TypeScript · React · Next.js · Vue 3 · Node.js · React Native · Vite · Pinia · Sass
+TypeScript · React · Next.js · Vue 3 · Node.js · PHP · React Native · Vite · Pinia · Sass
 
 ### Get in touch
 
