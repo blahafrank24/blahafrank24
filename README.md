@@ -1,6 +1,6 @@
 # Hi, I'm Frank 👋
 
-Full-stack engineer in Prague, with a frontend core. I've been building software professionally since 2016: **TypeScript, React / Next.js, Vue 3 and Node.js**, with some Python, .NET and Rust along the way.
+Full-stack engineer in Prague, with a frontend core. I've been building software professionally since 2016: **TypeScript, React / Next.js, Vue 3, Node.js and PHP**, with some Python, .NET and Rust along the way.
 
 Most of my career has been at startups and on my own products. At Outfindo I owned the frontend through a full pivot from a B2C aggregator to a B2B embeddable platform, and I co-founded Polyglot, a node-based visual programming tool, where I did the product design and the frontend. My latest engagement was on a national-scale Czech government platform.
 
@@ -21,7 +21,7 @@ I care more about the problem than the framework. I pick the stack that fits, an
 
 ### Stack
 
-PHP · TypeScript · React · Next.js · Vue 3 · Node.js · React Native · Vite · Pinia · Sass
+TypeScript · React · Next.js · Vue 3 · Node.js · React Native · Vite · Pinia · Sass
 
 ### Get in touch
 
