@@ -16,7 +16,8 @@ I care more about the problem than the framework. I pick the stack that fits, an
 ### What's here
 
 - **[actionflow](https://github.com/blahafrank24/actionflow)**: a typed model for declarative action sequences (submit → validate → confirm → redirect…). *(In progress.)*
-- **[vue-schema-admin](https://github.com/blahafrank24/vue-schema-admin)**: a schema-driven admin app framework, rebuilt from scratch from the work above. actionflow is its action layer. *(Going public soon.)*
+
+<sub>Also in the works: vue-schema-admin, a schema-driven admin framework built around actionflow (not public yet).</sub>
 
 ### Stack
 
