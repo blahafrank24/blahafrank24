@@ -18,6 +18,10 @@ I care more about the problem than the framework. I pick the stack that fits, an
 - **[actionflow](https://github.com/blahafrank24/actionflow)**: a typed model for declarative action sequences (submit → validate → confirm → redirect…).
 *Also in the works: vue-schema-admin, a schema-driven admin framework built around actionflow (not public yet).*
 
+### Assignment work
+
+- **[cnb-currency-converter](https://github.com/blahafrank24/cnb-currency-converter)**: shows the Czech National Bank exchange rates and converts CZK to any listed currency as you type. React, TypeScript (strict), Styled Components and React Query, with tests, CI and a GitHub Pages deploy. [Live demo](https://blahafrank24.github.io/cnb-currency-converter/)
+
 ### Stack
 
 TypeScript · React · Next.js · Vue 3 · Node.js · PHP · React Native · Vite · Pinia · Sass
